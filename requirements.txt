@@ -1,4 +1,9 @@
 numpy
 seaborn
 pandas
--e .  # automatically setup.py
+matplotlib
+scikit-learn
+catboost
+xgboost
+jupyter
+# -e .  # automatically setup.py
